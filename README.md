@@ -96,6 +96,14 @@ Full-stack developer from Stockholm. I build and run production systems end to e
 
 ---
 
+### 📈 Activity
+
+![GitHub streak](https://streak-stats.demolab.com?user=teddyyGO&theme=tokyonight&hide_border=true&ring=E5484D&fire=E5484D&currStreakLabel=E5484D)
+
+![Contribution snake](https://raw.githubusercontent.com/teddyyGO/teddyyGO/output/github-snake-dark.svg)
+
+---
+
 ### ⚡ What I do
 
 - 🎮 Game-server scripting: gameplay systems, economy, admin tools and anti-cheat
