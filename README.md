@@ -2,7 +2,7 @@
 
 ### Hi, I'm George 👋
 
-Full-stack developer in Stockholm. I build and run production systems end to end: the code, the database, the server it runs on and the pipeline that ships it. Most of my work powers game-server communities with hundreds of active players.
+Full-stack developer from Stockholm. I build and run production systems end to end: the code, the database, the server it runs on and the pipeline that ships it. Most of my work powers game-server communities with hundreds of active players.
 
 ---
 
