@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:E5484D&height=180&section=header&text=George&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Full-stack%20%E2%80%A2%20Game%20servers%20%E2%80%A2%20Infrastructure&descAlignY=60&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:258f3b&height=180&section=header&text=George&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Full-stack%20%E2%80%A2%20Game%20servers%20%E2%80%A2%20Infrastructure&descAlignY=60&descSize=18)
 
 ### Hi, I'm George 👋
 
@@ -119,4 +119,4 @@ Full-stack developer from Stockholm. I build and run production systems end to e
 
 🇬🇪 Georgian · 🇸🇪 Swedish · 🇬🇧 English · 🇷🇺 Russian
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:E5484D,100:1a1a1a&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:258f3b,100:0d1117&height=100&section=footer)
