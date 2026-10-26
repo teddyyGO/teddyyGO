@@ -117,6 +117,6 @@ Full-stack developer from Stockholm. I build and run production systems end to e
 
 ### 🌍 Languages
 
-🇬🇪 Georgian · 🇸🇪 Swedish · 🇬🇧 English · 🇷🇺 Russian
+🇬🇧 English · 🇸🇪 Swedish · 🇬🇪 Georgian · 🇷🇺 Russian
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:258f3b,100:0d1117&height=100&section=footer)
